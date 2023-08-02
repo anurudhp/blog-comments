@@ -1,3 +1,3 @@
 # blog-comments
 
-[Utterances](https://github.com/utterance/utterances) comment support for my website.
+[giscus](https://github.com/giscus/giscus) comment support for my [blog](https://anurudhp.github.io/blogs/).
